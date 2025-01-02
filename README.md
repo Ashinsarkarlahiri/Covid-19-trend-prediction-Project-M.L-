@@ -1,6 +1,6 @@
 # Project Overview:
 
-In this project I have basically executed the time-series task of forecasting Covid-19 cases by fbprohet time-series model and compared the trends across various countries:-
+In this project I have basically executed the time-series task of forecasting Covid-19 cases by fbprohet time-series model and compared the trends across various countries :-
 
 • Performed Exploratory data analysis, feature engineering and feature selection.
 
